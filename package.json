@@ -20,7 +20,7 @@
         "path": "^0.12.7",
         "rimraf": "^2.6.2",
         "subtractly": "^1.0.3",
-        "tesseract.js": "^1.0.14",
+        "tesseract.js": "^2.0.2",
         "uuid": "^3.3.2",
         "xml2json": "^0.11.2"
     },
@@ -34,5 +34,11 @@
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-standard": "^4.0.0",
         "nodemon": "^1.18.4"
+    },
+    "opencv4nodejs": {
+        "disableAutoBuild": 1,
+        "opencvIncludeDir": "D:\\tools\\opencv\\build\\include",
+        "opencvLibDir": "D:\\tools\\opencv\\build\\x64\\vc14\\lib",
+        "opencvBinDir": "D:\\tools\\opencv\\build\\x64\\vc14\\bin"
     }
 }
