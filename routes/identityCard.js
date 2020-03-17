@@ -8,7 +8,7 @@ const extractIdentityCard = async (req, res, next) => {
     text: null
   }
   res.writeHead(200)
-  form = initForm('images/storage/identityCard')
+  var form = initForm('images/storage/identityCard')
 
   form.parse(req, async (err, fields, file) => {
     const imgPath = file.file.path

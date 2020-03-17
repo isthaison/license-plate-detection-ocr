@@ -1,7 +1,7 @@
 <annotation>
 	<folder>theCanCuoc</folder>
 	<filename>cancuoc.jpg</filename>
-	<path>C:/Users/thehi/Desktop/surveyor-ocr/modules/theCanCuoc/cancuoc.jpg</path>
+	<path>./cancuoc.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

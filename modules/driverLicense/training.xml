@@ -1,7 +1,7 @@
 <annotation>
 	<folder>driverLicense</folder>
 	<filename>training.jpg</filename>
-	<path>C:/Users/thehi/Desktop/surveyor-ocr/modules/driverLicense/training.jpg</path>
+	<path>./training.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

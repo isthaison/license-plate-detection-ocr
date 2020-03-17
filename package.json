@@ -16,7 +16,7 @@
         "formidable": "^1.2.1",
         "lodash": "^4.17.11",
         "numjs": "^0.16.0",
-        "opencv4nodejs": "^4.11.0",
+        "opencv4nodejs": "^5.5.0",
         "path": "^0.12.7",
         "rimraf": "^2.6.2",
         "subtractly": "^1.0.3",
