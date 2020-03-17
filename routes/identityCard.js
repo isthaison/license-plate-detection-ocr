@@ -11,7 +11,12 @@ const extractIdentityCard = async (req, res, next) => {
   var form = initForm('images/storage/identityCard')
 
   form.parse(req, async (err, fields, file) => {
-    const imgPath = file.file.path
+
+
+    const f = file['']
+    console.log(f);
+
+    const imgPath = f.path
     data.message = imgPath
     await extractData(imgPath)
       .then(rs => {
